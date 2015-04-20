@@ -1,0 +1,60 @@
+TUntitled
+v7
+r0
+t443634003.751405
+cCheck dependencies
+cCompileC build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o /Users/Jay/Dropbox/SKW/TEMP/Untitled/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Debug/Untitled normal i386
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BAC72CA00000000000000EE
+t1269592778
+s238
+
+N/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Debug/Untitled
+t1421941203
+s20416
+
+N/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/Untitled.LinkFileList
+c0000000054C118A0000000000000006A
+t1421940896
+s106
+
+N/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o
+t1421941203
+s83676
+
+N/Users/Jay/Dropbox/SKW/TEMP/Untitled/main.cpp
+c0000000054C1198500000000000018F3
+t1421941125
+s6387
+i<iostream>
+i<string>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies443634002#443634002#0(0"0(0#1#0"2523054576#0"0#
+
+CCompileC build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o /Users/Jay/Dropbox/SKW/TEMP/Untitled/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s443634002.922072
+e443634003.712203
+r1
+xCompileC
+xbuild/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o
+x/Users/Jay/Dropbox/SKW/TEMP/Untitled/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Jay/Dropbox/SKW/TEMP/Untitled/main.cpp443634002#443634003#0(0"0(0#0#45"/Users/Jay/Dropbox/SKW/TEMP/Untitled/main.cpp2523054576#1281"    cd /Users/Jay/Dropbox/SKW/TEMP/Untitled    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-generated-files.hmap -I/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-own-target-headers.hmap -I/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-all-target-headers.hmap -iquote /Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Untitled.build/Debug/Untitled.build/Untitled-project-headers.hmap -F/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Debug -I/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Debug/include -I/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources/i386 -I/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Untitled.build/Debug/Untitled.build/DerivedSources -c /Users/Jay/Dropbox/SKW/TEMP/Untitled/main.cpp -o /Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/main.o0#
+
+CLd /Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Debug/Untitled normal i386
+s443634003.712367
+e443634003.751344
+r1
+xLd
+x/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Debug/Untitled
+xnormal
+xi386
+lSLF07#2@62"Link /Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Debug/Untitled443634003#443634003#0(0"0(0#0#0"2523054576#488"    cd /Users/Jay/Dropbox/SKW/TEMP/Untitled    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Debug -F/Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Debug -filelist /Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Untitled.build/Debug/Untitled.build/Objects-normal/i386/Untitled.LinkFileList -mmacosx-version-min=10.6 -o /Users/Jay/Dropbox/SKW/TEMP/Untitled/build/Debug/Untitled0#
+

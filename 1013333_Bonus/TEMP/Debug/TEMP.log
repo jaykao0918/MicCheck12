@@ -1,0 +1,13 @@
+﻿已經開始建置於 2015/1/23 上午 08:06:03。
+     1>節點 2 (Build 目標) 上的專案 "E:\Dropbox\SKW\TEMP\TEMP\TEMP\TEMP.vcxproj"。
+     1>ClCompile:
+         E:\Apps\Visual Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt 1013333_Bonus.cpp
+         1013333_Bonus.cpp
+       Link:
+         E:\Apps\Visual Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Dropbox\SKW\TEMP\TEMP\Debug\TEMP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Dropbox\SKW\TEMP\TEMP\Debug\TEMP.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Dropbox\SKW\TEMP\TEMP\Debug\TEMP.lib" /MACHINE:X86 Debug\1013333_Bonus.obj
+         TEMP.vcxproj -> E:\Dropbox\SKW\TEMP\TEMP\Debug\TEMP.exe
+     1>專案 "E:\Dropbox\SKW\TEMP\TEMP\TEMP\TEMP.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.57
